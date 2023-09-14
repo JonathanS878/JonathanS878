@@ -4,7 +4,7 @@ Hi 👋 My name is Jonathan Shtadler
 DevOps Engineer | AWS solution architect
 ---------------
 
-Having recently completed a DevOps engineering course, I'm highly autodidactic and driven individual, eager to embark on my journey in the field. My background as a combat commander has equipped me with the abilities to be both part of a team and its leader, as well as to face challenges with determination. As I seek my first DevOps role, I'm deeply ambitious in both my personal growth and professional development, aiming to fulfill a key responsibility in the success of the company I join.
+Having recently completed a DevOps engineering course, I'm highly autodidactic and driven individual, eager to embark on my journey in the field. My background as a combat commander has equipped me with the abilities to be both part of a team and its leader, as well as to face challenges with determination. As I seek my first DevOps role, I'm deeply ambitious in both my personal growth and professional development, aiming to fulfill a key role in the success of the company I join.
 
 * 🌍  I'm based in Israel
 * ✉️  You can contact me at [jonatanshtadler@gmail.com](mailto:jonatanshtadler@gmail.com)
