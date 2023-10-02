@@ -8,7 +8,7 @@ Having recently completed a DevOps engineering course, I'm highly autodidactic a
 
 * 🌍  I'm based in Israel
 * ✉️  You can contact me at [jonatanshtadler@gmail.com](mailto:jonatanshtadler@gmail.com)
-* 🚀  I'm currently working on [Compound Interest Project](http://http://34.83.2.172:5000/)
+* 🚀  I'm currently working on [Compound Interest Project](compound-interest-project.com)
 * 🧠  I'm learning CNCF landscape tools
 * 🤝  I'm open to collaborating on projects
 
